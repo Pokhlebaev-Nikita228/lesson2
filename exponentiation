@@ -4,3 +4,9 @@ k = a
 for i in range(b-1):
 	a = a * k
 print(a)
+
+
+
+
+
+
